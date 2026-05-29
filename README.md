@@ -1,6 +1,6 @@
-# **Scripts to replicate the analyses in "_Diversity and community structure of aerobic anoxygenic phototrophic bacteria are shaped by the deep chlorophyll maximum"_**
+# **Scripts to replicate the analyses in "_Diversity and community structure of aerobic anoxygenic phototrophic bacteria are shaped by the deep chlorophyll maximum_"**
 
-A manuscript under review. Preprint available in BioRxiv: https://doi.org/10.64898/2025.12.09.693174 
+A manuscript published in ISME Communication: doi.org/10.1093/ismeco/ycag076
 
 Scripts by Carlota R. Gazulla
 
